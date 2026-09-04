@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Mi primer post"
+date:   2026-09-04 07:47:00 -0500
+categories: personal
+---
+
+Hola, este es mi primer blog y la verdad ha sido algo difícil de conseguir hacer un primer post, pero aquí lo tenemos. Fue algo confuso el tema de escribir todo en lo que llamaríamos lenguaje de programación, pero creo que entendí un poco y la verdad me gustó mucho esta idea, es algo creativo, entiendo más de la programación y me encanta escribir así que sería un placer seguir creando contenido de diferentes temas aquí.
+
+Gracias por leer y nos vemos en el siguiente post.Hasta la vista
+
+*Att: Kristal Hernández*
